@@ -1,44 +1,96 @@
 {
-  "title": "七色保洁布：浴室双蓝",
+  "title": "第二章：工具与基本手法 - 七色保洁布详解",
   "cards": [
     {
       "type": "info",
       "variant": "list_with_icons",
-      "title": "镜面收干布使用要点",
+      "title": "浴室双蓝：镜面与清洁",
       "items": [
         {
-          "icon": "info",
-          "title": "使用范围",
-          "desc": "所有玻璃面、镜面和亮面家具",
-          "color": "blue"
-        },
-        {
-          "icon": "check",
-          "title": "保持干燥",
-          "desc": "必须保持干燥，不可弄湿",
-          "color": "blue"
-        },
-        {
-          "icon": "zap",
-          "title": "勤抖",
-          "desc": "使用过程中要勤抖",
-          "color": "blue"
-        },
-        {
           "icon": "star",
-          "title": "专业称呼",
-          "desc": "应称为'保洁布'而非'抹布'",
+          "title": "镜面收干布",
+          "desc": "用于玻璃、镜面、亮面家具；必须保持干燥，勤抖防湿",
+          "color": "blue"
+        },
+        {
+          "icon": "info",
+          "title": "浴室清洁布",
+          "desc": "专用于浴室天花板、墙壁、淋浴房、马桶；颜色近水色",
           "color": "blue"
         }
       ],
-      "imageKeyword": "dry cleaning cloth"
+      "imageKeyword": "blue cleaning cloths"
     },
     {
       "type": "info",
-      "variant": "classic",
-      "title": "浴室清洁布",
-      "desc": "专用区域：浴室天花板、墙壁、淋浴房玻璃、马桶等。设计理念：颜色接近水色，专为用水多的区域设计。",
-      "imageKeyword": "bathroom cleaning cloth"
+      "variant": "list_with_icons",
+      "title": "厨房咖啡配：油污与收干",
+      "items": [
+        {
+          "icon": "alert",
+          "title": "厨房油污布",
+          "desc": "用于厨房天花板、墙壁、油烟机等；搭配绿色除尘布",
+          "color": "brown"
+        },
+        {
+          "icon": "star",
+          "title": "厨房收干布",
+          "desc": "仅限厨房（除窗户/地板）；保持干燥，勤抖防湿；搭配白色油污布",
+          "color": "brown"
+        }
+      ],
+      "imageKeyword": "kitchen cleaning cloths"
+    },
+    {
+      "type": "info",
+      "variant": "list_with_icons",
+      "title": "客卧红绿灯：家具清洁与收干",
+      "items": [
+        {
+          "icon": "info",
+          "title": "家具清洁布",
+          "desc": "用于家具、门、摆件等；搭配绿色除尘布",
+          "color": "red"
+        },
+        {
+          "icon": "check",
+          "title": "家具收干布",
+          "desc": "用于家具、家电、皮具；必须湿擦，不可干擦；先红布湿擦皮具",
+          "color": "green"
+        }
+      ],
+      "imageKeyword": "furniture cleaning cloths"
+    },
+    {
+      "type": "info",
+      "variant": "big_number",
+      "title": "深蓝地板布：收尾清洁",
+      "number": "1",
+      "unit": "块",
+      "desc": "颜色最深，用于所有地板及脏污区域（如防护栏、纱窗），代表最脏的收尾工作",
+      "imageKeyword": "floor cleaning cloth"
+    },
+    {
+      "type": "info",
+      "variant": "hero",
+      "title": "记忆口诀：快速掌握七色布",
+      "desc": "口诀记忆：'红花配绿叶'（红绿布用于家具），'牛奶咖啡把厨房擦'（白咖布专用于厨房）。颜色联想：淡蓝色→镜面，浅蓝色→浴室（水色联想），深蓝色→地板（最脏）。",
+      "imageKeyword": "color coded cleaning system",
+      "content": "\"红花配绿叶\"：红绿布用于家具\n\"牛奶咖啡把厨房擦\"：白咖布专用于厨房."
+    },
+    {
+      "type": "info",
+      "variant": "comparison",
+      "title": "标签说明：专业提示",
+      "left": {
+        "title": "依赖标签",
+        "desc": "查看背面标签确认用途和干湿属性，但可能降低效率"
+      },
+      "right": {
+        "title": "熟记功能",
+        "desc": "避免依赖标签，熟记各布功能以展现专业性和快速操作"
+      },
+      "imageKeyword": "cleaning cloth label"
     }
   ]
 }
