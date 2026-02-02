@@ -1,0 +1,44 @@
+{
+  "title": "七色保洁布：浴室双蓝",
+  "cards": [
+    {
+      "type": "info",
+      "variant": "list_with_icons",
+      "title": "镜面收干布使用要点",
+      "items": [
+        {
+          "icon": "info",
+          "title": "使用范围",
+          "desc": "所有玻璃面、镜面和亮面家具",
+          "color": "blue"
+        },
+        {
+          "icon": "check",
+          "title": "保持干燥",
+          "desc": "必须保持干燥，不可弄湿",
+          "color": "blue"
+        },
+        {
+          "icon": "zap",
+          "title": "勤抖",
+          "desc": "使用过程中要勤抖",
+          "color": "blue"
+        },
+        {
+          "icon": "star",
+          "title": "专业称呼",
+          "desc": "应称为'保洁布'而非'抹布'",
+          "color": "blue"
+        }
+      ],
+      "imageKeyword": "dry cleaning cloth"
+    },
+    {
+      "type": "info",
+      "variant": "classic",
+      "title": "浴室清洁布",
+      "desc": "专用区域：浴室天花板、墙壁、淋浴房玻璃、马桶等。设计理念：颜色接近水色，专为用水多的区域设计。",
+      "imageKeyword": "bathroom cleaning cloth"
+    }
+  ]
+}
